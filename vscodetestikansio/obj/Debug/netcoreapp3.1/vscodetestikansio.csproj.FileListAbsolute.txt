@@ -1,0 +1,13 @@
+C:\Users\Juuso\Desktop\vscodetestikansio\bin\Debug\netcoreapp3.1\vscodetestikansio.exe
+C:\Users\Juuso\Desktop\vscodetestikansio\bin\Debug\netcoreapp3.1\vscodetestikansio.deps.json
+C:\Users\Juuso\Desktop\vscodetestikansio\bin\Debug\netcoreapp3.1\vscodetestikansio.runtimeconfig.json
+C:\Users\Juuso\Desktop\vscodetestikansio\bin\Debug\netcoreapp3.1\vscodetestikansio.runtimeconfig.dev.json
+C:\Users\Juuso\Desktop\vscodetestikansio\bin\Debug\netcoreapp3.1\vscodetestikansio.dll
+C:\Users\Juuso\Desktop\vscodetestikansio\bin\Debug\netcoreapp3.1\vscodetestikansio.pdb
+C:\Users\Juuso\Desktop\vscodetestikansio\obj\Debug\netcoreapp3.1\vscodetestikansio.csprojAssemblyReference.cache
+C:\Users\Juuso\Desktop\vscodetestikansio\obj\Debug\netcoreapp3.1\vscodetestikansio.AssemblyInfoInputs.cache
+C:\Users\Juuso\Desktop\vscodetestikansio\obj\Debug\netcoreapp3.1\vscodetestikansio.AssemblyInfo.cs
+C:\Users\Juuso\Desktop\vscodetestikansio\obj\Debug\netcoreapp3.1\vscodetestikansio.csproj.CoreCompileInputs.cache
+C:\Users\Juuso\Desktop\vscodetestikansio\obj\Debug\netcoreapp3.1\vscodetestikansio.dll
+C:\Users\Juuso\Desktop\vscodetestikansio\obj\Debug\netcoreapp3.1\vscodetestikansio.pdb
+C:\Users\Juuso\Desktop\vscodetestikansio\obj\Debug\netcoreapp3.1\vscodetestikansio.genruntimeconfig.cache
